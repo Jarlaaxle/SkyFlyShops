@@ -1,0 +1,126 @@
+.black{
+    background-color: white;
+    height: auto;
+    width: 5px;
+    
+
+}
+
+#Titulo{
+    
+    font-size: 3em;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    border: black;
+border-collapse: collapse ;
+  }
+  li {
+    
+    float: left;
+    text-align: center;
+    width: 5em;
+  }
+
+#Links{
+  text-decoration: none;
+  color: black;
+}
+
+.Fondoproducts{
+    background-color: whitesmoke;
+height: auto;
+width: 12px;
+}
+.Titulos{
+    font-size: 2em;
+    color: black;
+    text-align: center;
+    font-family: "ar destine";
+}
+#Imagenbio{
+    width: 900px;
+    height: 450px;
+
+}
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    height: 400px;
+}
+.iamgenventa {
+    height: 250px;
+    width: 250px;
+}
+#videonike{
+   width: 100%;
+   
+}
+.iamgenventa{
+    width: 100px;
+    height: 350px;
+}
+
+
+.button.button__full__height {
+    height: 58px;
+    line-height: 58px;
+}
+.button {
+    display: block;
+    width: 100%;
+    color: #fff;
+    background-color: black;
+    text-align: center;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+    border-radius: 4px;
+    height: 50px;
+    line-height: 50px;
+    font-weight: 700;
+}
+
+.Paginavisita{
+    color: black;
+    text-align: center;
+}
+p{
+    font-family: "Bahnschrift SemiBold";
+}
+
+
+#form {
+  position: relative;
+  width: 500px;
+  margin: 50px auto 100px auto;
+}
+
+input {
+
+  font-size: 0.875em;
+  width: 350px;
+  height: 50px;
+  padding: 0px 15px 0px 15px;
+  
+  background: black;
+  outline: none;
+  color: #726659;
+  
+  border: solid 1px red;
+  border-bottom: none;
+  
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+}
+
+input:hover {
+  background: white;
+  color: red;
+}
